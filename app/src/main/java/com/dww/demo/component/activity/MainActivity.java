@@ -19,7 +19,7 @@ import com.luojilab.component.componentlib.service.JsonService;
 import com.luojilab.router.facade.annotation.RouteNode;
 
 /**
- * Created by dww on 2018/7/7.
+ * Created by dww on 2018/7/7.lula
  */
 @RouteNode(path = "/main", desc = "home page")
 public class MainActivity extends Activity implements View.OnClickListener {
