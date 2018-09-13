@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyComponentDemo.iml" filepath="$PROJECT_DIR$/MyComponentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicLib/basicLib.iml" filepath="$PROJECT_DIR$/basicLib/basicLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicRes/basicRes.iml" filepath="$PROJECT_DIR$/basicRes/basicRes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/componentLib/componentLib.iml" filepath="$PROJECT_DIR$/componentLib/componentLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/componentService/componentService.iml" filepath="$PROJECT_DIR$/componentService/componentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/departComponent/departComponent.iml" filepath="$PROJECT_DIR$/departComponent/departComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driverComponent/driverComponent.iml" filepath="$PROJECT_DIR$/driverComponent/driverComponent.iml" />
+    </modules>
+  </component>
+</project>

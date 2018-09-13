@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="driver_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/driver_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/driver_colorPrimaryDark</item>
+        <item name="colorAccent">@color/driver_colorAccent</item>
+    </style>
+
+</resources>

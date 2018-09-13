@@ -1,0 +1,1 @@
+include ':app', ':basicLib', ':departComponent', ':basicRes', ':componentLib', ':componentService', ':driverComponent'

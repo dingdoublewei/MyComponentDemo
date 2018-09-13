@@ -1,0 +1,10 @@
+auto generated, do not change !!!! 
+
+HOST : depart
+
+depart home page
+/departMain
+password:String
+carBrandBean:com.dww.demo.basiclib.beans.CarBrandBean
+userName:String
+
